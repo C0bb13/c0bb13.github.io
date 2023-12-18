@@ -30,3 +30,10 @@ comments:
 
 plugins:
  - jekyll-feed
+
+# Copied from README
+
+remote_theme: niklasbuschmann/contrast@v2.11
+
+plugins:
+  - jekyll-remote-theme
