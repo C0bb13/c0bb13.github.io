@@ -1,4 +1,4 @@
-title: "Andrew Cobble"
+stitle: "Andrew Cobble"
 author: "Andrew Cobble"
 description: "University of Texas at Dallas"
 permalink: /:title/
@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.md", title: "Home"}
+  - {file: "WebsiteIndex.md", title: "Home"}
   - {file: "research.md", title: "CV"}
   - {file: "research.md", title: "Portfolio"}
   - {file: "contact.md", title: "Contact"}
