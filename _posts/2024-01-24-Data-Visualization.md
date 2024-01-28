@@ -12,3 +12,6 @@ These include an interactive graph of recent international Covid-19 statistics, 
 
 <iframe src="/assets/CarSelector.html" Height = "500" Width = "500" ></iframe>
 
+<iframe src="/assets/WeatherBarChart.html" Height = "500" Width = "800" ></iframe>
+
+
