@@ -19,4 +19,4 @@ Click and drag to create a selection within the graph.
 Click and drag to examine the average minimum temperature within a specific time frame.
 
 <iframe src="/assets/CovidChart.html" Height = "830" Width = "775" ></iframe>
-Examine individual nations' Covid-19 deaths over time in 2021 by clicking their bar charts. Click the background of the bar chart to go back to the full line chart. 
+Examine individual nations' Covid-19 mortality over time in 2021 by clicking their bar charts. Click the background of the bar chart to go back to the full line chart. 
