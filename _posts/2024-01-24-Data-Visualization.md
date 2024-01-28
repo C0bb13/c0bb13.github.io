@@ -13,6 +13,6 @@ These include an interactive graph of recent international Covid-19 statistics, 
 Here are some HTML-friendly selections of interactable charts:
 <iframe src="/assets/CarSelector.html" Height = "500" Width = "500" ></iframe>
 
-<iframe src="/assets/WeatherChart.html" Height = "455" Width = "750" ></iframe>
+<iframe src="/assets/WeatherChart.html" Height = "465" Width = "750" ></iframe>
 
 
