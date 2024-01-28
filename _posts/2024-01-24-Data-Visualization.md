@@ -15,8 +15,8 @@ Here are some HTML-friendly selections of interactable charts:
 <iframe src="/assets/CarSelector.html" Height = "500" Width = "500" ></iframe>
 Click and drag to create a selection within the graph.
 
-<iframe src="/assets/WeatherChart.html" Height = "475" Width = "750" ></iframe>
+<iframe src="/assets/WeatherChart.html" Height = "475" Width = "735" ></iframe>
 Click and drag to examine the average minimum temperature within a specific time frame.
 
-<iframe src="/assets/CovidChart.html" Height = "900" Width = "850" ></iframe>
+<iframe src="/assets/CovidChart.html" Height = "850" Width = "800" ></iframe>
 Examine individual nations' Covid-19 deaths over time in 2021 by clicking their bar charts. Click the background of the bar chart to go back to the full line chart. 
