@@ -17,6 +17,3 @@ Click and drag to create a selection within the graph.
 
 <iframe src="/assets/WeatherChart.html" Height = "475" Width = "730" ></iframe>
 Click and drag to examine the average minimum temperature within a specific time frame.
-
-<iframe src="/assets/AdjustedCovidChart.html" Height = "830" Width = "775" ></iframe>
-Examine individual nations' Covid-19 mortality over time in 2021 by clicking their bar charts. Click the background of the bar chart to go back to the full line chart. 
