@@ -10,5 +10,5 @@ In this [project](/assets/PortfolioDataViz.ipynb){:target="_blank"}, I demonstra
 
 These include an interactive graph of recent international Covid-19 statistics, an interactive graph of a large database of automobile safety information, and a zoomable map of the state of Texas according to Covid-19 death statistics. 
 
-<iframe src="/assets/CarSelector.html" Height = "500" Width = "480" ></iframe>
+<iframe src="/assets/CarSelector.html" Height = "500" Width = "500" ></iframe>
 
