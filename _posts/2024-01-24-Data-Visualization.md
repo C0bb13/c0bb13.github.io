@@ -12,4 +12,5 @@ These include an interactive graph of recent international Covid-19 statistics, 
 
 
 [View Altair Chart](/assets/visualization.html){:target="_blank"}
+<iframe src="/assets/visualization.html" width="800" height="600"></iframe>
 
